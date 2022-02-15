@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacts/static/css/main.a736c516.css",
+    "main.js": "/reacts/static/js/main.6bac796b.js",
+    "static/media/1_zJ6BlIllcCHK7htO9pknuQ.png": "/reacts/static/media/1_zJ6BlIllcCHK7htO9pknuQ.bd97e568f45f1d87cf42.png",
+    "static/media/java.jpg": "/reacts/static/media/java.5b3ab8a727f5754a1f6c.jpg",
+    "static/media/ui.jpg": "/reacts/static/media/ui.11263f266cd9755863b4.jpg",
+    "static/media/Python.jpg": "/reacts/static/media/Python.748d91eb809caf448121.jpg",
+    "static/media/css.jpg": "/reacts/static/media/css.154493070295f7112b56.jpg",
+    "static/media/web.jpg": "/reacts/static/media/web.1224ff80f38823d341ac.jpg",
+    "static/media/php.jpg": "/reacts/static/media/php.328b379e11747f3db476.jpg",
+    "static/media/laptop.jpg": "/reacts/static/media/laptop.8ef89e904761750b1906.jpg",
+    "static/media/react.jpg": "/reacts/static/media/react.9489c5b6436fa7bec1ec.jpg",
+    "static/media/start-ups.svg": "/reacts/static/media/start-ups.a63b343b2e6573f6cc48a348b3e02f61.svg",
+    "index.html": "/reacts/index.html",
+    "main.a736c516.css.map": "/reacts/static/css/main.a736c516.css.map",
+    "main.6bac796b.js.map": "/reacts/static/js/main.6bac796b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a736c516.css",
+    "static/js/main.6bac796b.js"
+  ]
+}
